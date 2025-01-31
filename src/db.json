@@ -1,0 +1,75 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"Samsung Galaxy S23",
+            "description":"Smartphone (Phantom Black, 12GB, 256GB Storage)",
+            "category":"Mobile",
+            "price":60000,
+            "images":"https://m.media-amazon.com/images/I/71goZuIha-L._SX522_.jpg"
+        },
+        {
+            "id":2,
+            "name":"realme Narzo 50A",
+            "description":"(Voyage Blue,6GB RAM+128GB Storage) 90Hz Eye Comfort Display | IP54 Dust & Water Resistance | 48-Month Fluency | Charger in The Box ",
+            "category":"Mobile ",
+            "price":48000 ,
+            "images":"https://m.media-amazon.com/images/I/71r0Ysx+oVL._SX522_.jpg "
+        },
+        {
+            "id":3,
+            "name":" HP Victus",
+            "description":" Intel Core i5-13420H, 6GB NVIDIA RTX 4050, 16GB DDR4, 512GB SSD (Win11, Office 21, Silver, 2.29kg) 144Hz, 9MS, IPS, 15.6-inch(39.6cm) FHD Gaming Laptop, Enhanced Cooling, fa1319TX ",
+            "category":"Laptop ",
+            "price": 80000,
+            "images":" https://m.media-amazon.com/images/I/81X7FMzesML._SY450_.jpg"
+        },
+        {
+            "id":4,
+            "name":"Lenvo Ideapad ",
+            "description":"12th Gen Intel Core i3-1215U 14 Inch (35.5cm) FHD Thin & Light Laptop (8GB/512GB SSD/Win 11/Office 2021/1 Year Warranty/3months Game Pass/Arctic Grey/1.43Kg), 82RJ00FUIN ",
+            "category":" Laptop",
+            "price":40520 ,
+            "images":"https://m.media-amazon.com/images/I/71gaqhm080L._SX450_.jpg "
+        },
+        {
+            "id":5,
+            "name":" dell Inspiron ",
+            "description":" Intel Core i5-13420H, 6GB NVIDIA RTX 4050, 16GB DDR4, 512GB SSD (Win11, Office 21, Silver, 2.29kg) 144Hz, 9MS, IPS, 15.6-inch(39.6cm) FHD Gaming Laptop, Enhanced Cooling, fa1319TX ",
+            "category":"Laptop ",
+            "price": 80000,
+            "images":" https://m.media-amazon.com/images/I/61Kfqt-h5-L._AC_UY327_FMwebp_QL65_.jpg"
+        },
+        {
+            "id":6,
+            "name":"Apple",
+            "description":"Smartphone (Phantom Black, 12GB, 256GB Storage)",
+            "category":"Mobile",
+            "price":60000,
+            "images":"https://m.media-amazon.com/images/I/61lLjrvDEkL._SX522_.jpg"
+            
+        },
+        {
+            "id":7,
+            "name":"Apple",
+            "description":"Smartphone (Phantom Black, 8GB, 256GB Storage)",
+            "category":"Mobile",
+            "price":60000,
+            "images":"https://m.media-amazon.com/images/I/31vz6yNQ6+L._SX342_SY445_.jpg"
+        },
+        {
+            "id":8,
+            "name":"E-Bike",
+            "description":"Green Invicta Electric Scooter for Adult’s Commuter, No RTO Registration or DL Required, 60kms Range & 25kmph, Comfortable Wider Deck E-Bike | Black",
+            "category":"Bike",
+            "price":60000,
+            "images":"https://m.media-amazon.com/images/I/71qrcggQftL._SX425_.jpg"
+        }
+   
+
+
+
+
+       
+    ]
+}
